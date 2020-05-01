@@ -1,15 +1,32 @@
-# CricketPlayers
-A MEAN stack web application to demonstrate the CRUD operations.
 
-##NodeJS,Angular CLI, MongoDB to be installed beforehead
-next
-##open two terminals
--cd one of it into nodeapp
--another into angularapp
+# Cricket-Player data management
 
-##npm install, for installing dependencies specified.
 
-##ng serve in the angularapp terminal
-##nodemon in the nodeapp terminal
+## Installation
+Download the [Angularapp](https://github.com/AMAN-LADWA/angularApp) to and add in same directory as of nodeapp.
 
-use localhost:4200/ for launching the app.
+Also download Angularapp from other repo
+
+NodeJS,Angular CLI, MongoDB to be installed beforehead
+
+Clone repository locally and cd through cli into the nodeapp folder.
+When in nodeapp directory ,
+```bash
+npm install dependencies
+nodemon
+```
+When in angularApp directory ,
+```bash
+ng serve
+```
+
+## Usage
+Once server is up and running open any browser, enter use localhost:4200/ for launching the app. 
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
