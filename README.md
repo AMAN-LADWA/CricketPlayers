@@ -3,9 +3,7 @@
 
 
 ## Installation
-Download the [Angularapp](https://github.com/AMAN-LADWA/angularApp) to and add in same directory as of nodeapp.
-
-Also download Angularapp from other repo
+Download the [Angularapp](https://github.com/AMAN-LADWA/angularApp) to and copy it in same directory as of nodeapp.
 
 NodeJS,Angular CLI, MongoDB to be installed beforehead
 
